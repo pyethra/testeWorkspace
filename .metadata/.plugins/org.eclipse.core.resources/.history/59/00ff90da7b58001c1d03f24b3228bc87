@@ -1,0 +1,14 @@
+package testesFront;
+
+import org.junit.Test;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class PageHome {
+	@Test
+	public void testNavegarPaginaHome() {
+		System.setProperty("webdriver.chrome.driver", "C:\\Program Files\\chrome-driver\\chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
+		driver.get("https://www.google.com/");
+	}
+}

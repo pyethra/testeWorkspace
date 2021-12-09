@@ -1,0 +1,24 @@
+INDEX VERSION 1.131+C:\Users\Aluno\Pyethra\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2760960411.index
+2778106011.index
+2694524593.index
+1865797976.index
+4099089272.index
+1878136125.index
+3453921109.index
+2338262327.index
+1608051757.index
+2992460171.index
+4041641669.index
+4003455434.index
+2906389022.index
+3819590229.index
+768890453.index
+1282472381.index
+1710793567.index
+2218016055.index
+904122965.index
+27322472.index
+3510595278.index
+3259825159.index
+1309934194.index
